@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @robert-barbosa
+- 📫 IG: @barbosarobertao
+- 🌱 I’m currently learning C and C#
