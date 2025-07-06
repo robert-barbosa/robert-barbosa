@@ -2,7 +2,7 @@
 
 **`Análise e desenvolvimento de Sistemas`**
 
-Me chamo Robert Barbosa, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas pela FATEC.
+Estudante de Análise e Desenvolvimento de Sistemas pela FATEC.
 Atualmente estou focado em aprender e praticar C#, além de explorar outras áreas do desenvolvimento de software. 
 
 ---
