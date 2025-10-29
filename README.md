@@ -22,6 +22,15 @@
 
 <img 
     align="left" 
+    alt="Linux"
+    title="Linux" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=linux"
+/>
+
+<img 
+    align="left" 
     alt="C#" 
     title="C#"
     width="50px" 
