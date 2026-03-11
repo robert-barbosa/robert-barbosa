@@ -22,6 +22,24 @@
 
 <img 
     align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=html"
+/>
+
+<img 
+    align="left" 
+    alt="CSS"
+    title="CSS" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/icons?i=css"
+/>
+
+<img 
+    align="left" 
     alt="Linux"
     title="Linux" 
     width="50px" 
